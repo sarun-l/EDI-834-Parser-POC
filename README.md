@@ -1,1 +1,1 @@
-sh process_main.sh EDI834_sample.txt
+This program parses an EDI834 file and loads it into a relational database.
